@@ -1,3 +1,3 @@
 <div align = "center">
-    <img src = "./glasp-logo.png">
+    <img src = "./images/glasp-logo.png">
 </div>
