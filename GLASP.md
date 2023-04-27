@@ -6,7 +6,6 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-    -  [A Brief Description of a Highlighting Tool](#a-brief-description-of-a-highlighting-tool)
     - [An Overview of Glasp](#an-overview-of-glasp)
 2. [Features of Glasp](#features-of-glasp)
     - [Features of Home Page](#features-of-the-home-page)
@@ -23,16 +22,17 @@
 
 ## Introduction
 
-### A Brief Description of a Highlighting Tool 
-
 Let’s first understand what highlighting means. According to the oxford dictionary, it means emphasizing something so people can give it more attention. In this concept, highlighting is a process for drawing attention to a specific section of text or image.
 
-With the above explanation, we can assert that the purpose of a Highlight App is to specifically draw attention to a word, image, or group of words or images in a written document. Its purpose is not limited to but can be used to classify concepts, organize articles, or draw attention to crucial information. Examples of Highlight Applications are Liner, Readwise, TagX, Glasp etcetera. 
+With the above explanation, we can assert that the purpose of a Highlight Tool is to specifically draw attention to a word, image, or group of words or images in a written document. Its purpose is not limited to but can be used to classify concepts, organize articles, or draw attention to crucial information. Examples of Highlight Applications are Liner, Readwise, TagX, Glasp etcetera. 
+
+In this article, we will be focusing on Glasp, a web Highlighting Tool, and how to maximize it for content readability.
 
 ### An Overview of Glasp.
-In this article, we will be focusing on Glasp. Glasp is a social web highlighting tool that allows you to highlight significant sentences or key phrases in any online article that grabs your interest to save them for later use. Additionally, it enables you to write summaries of YouTube videos.
 
-Glasp is a free Web extension, and it offers colorful highlighting options that make it easy to record internet information, then record the content automatically to the homepage.
+Glasp is a social web highlighting tool that allows you to highlight significant sentences or key phrases in any online article that grabs your interest to save them for later use. Additionally, it enables you to write summaries of YouTube videos.
+
+Glasp is a free Web extension offering colorful highlighting options that make it easy to record internet information, then record the content automatically to the homepage.
 
 ## Features of Glasp.
 
@@ -46,7 +46,7 @@ Glasp is a free Web extension, and it offers colorful highlighting options that 
 * Users can share highlights across LinkedIn, Twitter, Facebook, and mail.
 
 ### Features of the Home Page
-Click on the home feed through the icon on the sidebar of the Glasp extension, as shown below, or visit glasp.co. It takes you to the homepage of Glasp.
+Click on the home feed through the icon on the sidebar of the Glasp extension, as shown below, or visit [https://glasp.co/home](https://glasp.co/home). It takes you to the homepage of Glasp.
 
 ![Images of how to get to Home Page1](/images/image14.png)
 
@@ -59,7 +59,7 @@ The below image is the Home Page Interface and a brief explanation of the labele
 * Label 1: When signing up for Glasp, there was a part where you had to select ten (10) topics that interest you. This section displays the ten (10) selected topics. Click on any of the topics to display content by other users in the timeline.
 * Label 2: This session recommends other interesting topics to you.
 * Label 3: This session suggests people you may want to follow. 
-* Label 4: This session is like a timeline, where you find the contents of others users, as well as users you follow, topics you are interested in, and popular content.
+* Label 4: This session is like a timeline, where you find the contents of other users, the users you follow, topics you are interested in, and popular content.
 * Label 5: This shows the community of Glasp.
 
 ### The “My Highlight” Session in Home Page Interface
@@ -95,9 +95,10 @@ The Explore page provides articles you would love to explore.
 
 ## Installation
 As previously said, it is a free web browser extension for Windows and Mac desktops. Below is a quick guide for installing Glasp:
-1. Visit glasp.co to install it on Chrome or Safari.
-2. Click label 1 to sign up. It will take you to a page where you can sign up with your Google account.
-3. Click label 2 in the below image to install it on Chrome. Click label 3 to install it on Safari.
+Visit [https://glasp.co](https://glasp.co) to install it on Chrome or Safari.
+Click label 1 to sign up. It will take you to a page where you can sign up with your Google account.
+Click label 2 in the below image to install it on Chrome. Click label 3 to install it on Safari.
+
 
 ![Installation Image1](/images/image1.png)
 
