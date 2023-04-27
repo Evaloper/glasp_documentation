@@ -1,5 +1,5 @@
 <div align = "center">
-    <img src = "./images/glasp-logo.png" width = "70%">
+    <img src = "./images/glasp-logo.png" style="width: 70%; background-color: white; border-radius: 15px">
 </div>
 
 <h1 align = "center"> Ways to Maximize Glasp: A Social Web Highlighting Tool for Content Readability. </h1>
