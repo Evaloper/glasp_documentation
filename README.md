@@ -1,1 +1,24 @@
-# glasp_documentation
+# Glasp Documentation
+
+This article is the second task in the Technical Writing Mentorship program, and it was to write a piece about Glasp with an appropriate title of our choice that includes its use. Below are some instructions we are to follow:
+
+* Write in Markdown.
+* Create a repo on GitHub.
+* Use Vscode to write and test the markdown file
+* Send a screenshot of the code containing the assignment.
+
+The article should have the following:
+
+* Arrange the order of the content
+* Attention to details
+* Work on the information architecture
+* It should be over 1000 words
+* No plagiarism 
+* Do not use AI-generated content
+* Your audience is a novice
+* Proper citation 
+* No grammatical or spelling error 
+* No repetitive and filler words 
+* Must have necessary images 
+* Use the Google Writing style guide
+This article aims at educating its readers on ways to maximize Glasp for content readability. It provides an overview of Glasp's features and benefits and the importance of using Glasp for content readability.
