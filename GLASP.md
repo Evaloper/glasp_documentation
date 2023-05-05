@@ -24,7 +24,7 @@
 
 Let’s first understand what highlighting means. According to the oxford dictionary, it means emphasizing something so people can give it more attention. In this concept, highlighting is a process for drawing attention to a specific section of text or image.
 
-With the above explanation, we can assert that the purpose of a Highlight Tool is to specifically draw attention to a word, image, or group of words or images in a written document. Its purpose is not limited to but can be used to classify concepts, organize articles, or draw attention to crucial information. Examples of Highlight Applications are Liner, Readwise, TagX, Glasp etcetera. 
+With the above explanation, the purpose of a Highlight Tool is to specifically draw attention to a word, image, or group of words or images in a written document. Its purpose is not limited to but can be used to classify concepts, organize articles, or draw attention to crucial information. Examples of Highlight Applications are Liner, Readwise, TagX, Glasp etcetera. 
 
 In this article, we will be focusing on Glasp, a web Highlighting Tool, and how to maximize it for content readability.
 
@@ -32,7 +32,7 @@ In this article, we will be focusing on Glasp, a web Highlighting Tool, and how 
 
 Glasp is a social web highlighting tool that allows you to highlight significant sentences or key phrases in any online article that grabs your interest to save them for later use. Additionally, it enables you to write summaries of YouTube videos.
 
-Glasp is a free Web extension offering colorful highlighting options that make it easy to record internet information, then record the content automatically to the homepage.
+Glasp is a free Web extension offering colorful highlighting options that make it easy to record internet information, then record the content automatically to the homepage. It is made available for Google's Chrome and Safari web browsers. For illustration in this article, we'll use Glasp in the Chrome browser.
 
 ## Features of Glasp.
 
@@ -69,11 +69,12 @@ The below image is the Home Page Interface and a brief explanation of the labele
 * Label 1: This session shows the date you joined, the number of your followers, and those you follow. The “Ask Digital Me” button is for searching through your highlighted contents and resources you have gathered for a specific topic you would love to visit.
 * Label 2: This session measures your performance. It gives information about your engagements over days, weeks, and months.
 
-* Label 3: The link labeled Author shows the list of people who tagged you as an author, with their highlights displayed on the timeline session. 
-  - The article link displays a list of all highlighted articles.
-  - Favorites display the highlights that you find most interesting.
-  - Saved shows all saved collections.
-  - Notes and highlights synced from the Kindle app appear under the Kindle link.
+* Label 3: 
+    - The link labeled Author shows the list of people who tagged you as an author, with their highlights displayed on the timeline session.
+    - The article link displays a list of all highlighted articles.
+    - Favorites display the highlights that you find most interesting.
+    - Saved shows all saved collections.
+    - Notes and highlights synced from the Kindle app appear under the Kindle link.
   - Videos show a summary of the video highlighted.
 
 * Label 4: This session shows the number of viewers of the displayed highlight.
@@ -85,28 +86,30 @@ The below image is the Home Page Interface and a brief explanation of the labele
 The Explore page provides articles you would love to explore.
 1. At the click of the explore, you will find the ten(10) topics you selected when registering your Glasp account.
 
-![Explore Page Image1](/images/image17.png)
+![Explore Page Image1](/images/img17.png)
 
-2. Click on any of the topics, or you can search for any topic of your choice by typing it in the search field.
+2. Click on any topic, or you can search for any topic of your choice by typing it in the search field.
 
 3. You can click on Most Highlighted, Most Recent, or Alphabetical to get the most highlighted, most recent, or articles in alphabetical order.
 
 ![Explore Page Image2](/images/image18.png)
 
 ## Installation
-As previously said, it is a free web browser extension for Windows and Mac desktops. Below is a quick guide for installing Glasp:
+As previously said, it is a free web browser extension. It is made available for Windows and Mac desktops. Below is a quick guide for installing Glasp:
 Visit [https://glasp.co](https://glasp.co) to install it on Chrome or Safari.
-Click label 1 to sign up. It will take you to a page where you can sign up with your Google account.
-Click label 2 in the below image to install it on Chrome. Click label 3 to install it on Safari.
+
+1. Click label 1 to sign up. It will take you to a page where you can sign up with your Google account.
+
+2. Click label 2 in the below image to install it on Chrome. Click label 3 to install it on Safari.
 
 
 ![Installation Image1](/images/image1.png)
 
-4. Click Get to get it installed. A pop-up page will appear after a few minutes Glasp should be installed on your device.
+3. Click on the button Get to get it installed.
 
 ![Installation Image2](/images/image2.png)
 
-5. Click Add to Chrome on the pop-up page, and a pop-up page will appear.
+4. Click Add to Chrome, and a pop-up page will appear.
 
 ![Installation Image3](/images/image3.png)
 
@@ -115,8 +118,8 @@ Click label 2 in the below image to install it on Chrome. Click label 3 to insta
 ![Installation Image4](/images/image4.png)
 
 ### How to Add Glasp to Chrome's Extension
-1. Locate your toolbars by moving your cursor to the side of the web browser search area. 
-2. Click on the zoom Icon as shown in Image 1. A pop-up page will appear where you have the list of all extensions installed on your Chrome, click on the pin icon beside the Glasp app extension to add it to the list of toolbars by the side of the search field, as shown in image 2.
+1. Locate your toolbars by moving your cursor to the side of the web browser search area, as shown in the image below. 
+2. Click on the zoom Icon as shown in Image 1. A pop-up page will appear where you have the list of all extensions installed on your Chrome, and then click on the pin icon beside the Glasp app extension to add it to the list of toolbars by the side of the search field, as shown in image 2.
 
 **Image 1**
 ![Image to add Glasp to Chrome's extension1](/images/image5.png)
@@ -154,7 +157,7 @@ There are two ways to do that:
 
 ![Image to Add Note method 2](/images/image9.png)
 
-### How to Create Quote from Highlight and Share on Social Media
+### How to Create Quotes from Highlight and Share on Social Media
 1. Click on the zoom icon, as shown below.
 
 ![Image to create Quote](/images/image10.png)
@@ -171,7 +174,7 @@ Tagging content online is advantageous if you want to be found easily on the soc
 
 **Method 1:**
 
-1. Click on the highlighted area, and a pop-up page will appear, as shown in the image below will appear.
+1. Click on the highlighted area, and a pop-up page will appear, as shown in the image below.
 2. Click on the zoom icon indicated in the image below. It will take you to method 2.
 
 **Method 2:**
@@ -186,6 +189,18 @@ Tagging content online is advantageous if you want to be found easily on the soc
 ![Image to Share Highlights](/images/image13.png)
 
 2. Click on any social media icons you want to share your highlight.
+
+### How to Transcribe and Summarize Youtube Video Using Glasp.
+
+Follow the below step to transcribe or summarize the YouTube Videos, as shown in the image below.
+
+1. Open any youtube video using your Chrome browser.
+2. Click on the Transcribe & Summary to convert speech into written text.
+3. Click on label 1 to copy the transcript.
+4. Click on label 2 to go to jump to the current time in the video.
+5. Click on label 3 to summarize the content of the script.
+
+![Image to Transcribe YouTube Video](/images/youtube.png)
 
 ## Benefits of Using Glasp for Content Readability
 1. It helps to store collections of key phrases or words for future purposes.
